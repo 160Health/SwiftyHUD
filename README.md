@@ -1,4 +1,4 @@
-<div align=center><img src="Document/Resource/swiftyhud.png" width="860" height="200" /></div>
+<div align=leading><img src="Document/Resource/swiftyhud.png" width="430" height="100" /></div>
 
 A powerful and easy to use HUD view.
 
